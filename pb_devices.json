@@ -141,6 +141,10 @@
     "z3s": {
       "name": "Samsung Galaxy S20 Ultra",
       "maintainer": "Nico1704"
+    },
+	 "r9q": {
+      "name": "Samsung Galaxy S21 (5G) Snapdragon",
+      "maintainer": "@edward0181"
     }
   },
   "TECNO": {
