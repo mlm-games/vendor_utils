@@ -547,6 +547,10 @@
     "olivewood": {
       "name": "Xiaomi Redmi 8A Pro/Dual",
       "maintainer": "Aryan Sinha"
+    },
+    "fire": {
+      "name": "Xiaomi Redmi 12",
+      "maintainer": "@YudhoPatrianto"
     }
   }
 }
